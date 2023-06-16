@@ -3,7 +3,7 @@
 This project implements the backend for registry.k8s.io, Kubernetes's container
 image registry.
 
-Known user-facing issues will be pinned at the top of [our issue tracker][issues].
+Known user-facing issues will be pinned at the top of [our issue tracker][issues].12
 
 For details on the implementation see [cmd/archeio](./cmd/archeio/README.md)
 
